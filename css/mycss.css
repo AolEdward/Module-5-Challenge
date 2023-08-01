@@ -35,14 +35,15 @@
 }
 /*END OF Challenge 5-#3*/
 
-.container {
+.container img {
 	position: relative;
-	text-align: center;
-	color: black;
-  }
+	margin-bottom: 20px;
+	color:white;
+}
 
-.top-left {
+.imageText h2 {
 	position: absolute;
-	top: 30px;
-	left: 50px;
-  }  
+	top: 0;
+	color: white;
+	padding:20px;
+}

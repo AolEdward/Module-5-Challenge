@@ -13,6 +13,21 @@
 	border-radius: 35px
 
 }
-/*Challenge #1*/
+/*END OF Challenge #1*/
 
 
+/*Challenge 5-#3*/
+.myTable {
+	border: 1px solid black;
+
+}
+	
+.myTable tr, td {
+	border: 1px solid;
+}
+
+.myTable th {
+	background-color: aquamarine;
+
+}
+/*END OF Challenge 5-#3*/

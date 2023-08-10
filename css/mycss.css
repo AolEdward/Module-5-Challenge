@@ -88,4 +88,10 @@
 	
   }
 
+.column p:hover {
+	color: blueviolet;
+	font-size: 20px;
+	
+}
+
  
